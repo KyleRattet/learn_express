@@ -14,5 +14,9 @@
     "express"
   ],
   "author": "kyle",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.3.3",
+    "express": "^4.13.3"
+  }
 }
